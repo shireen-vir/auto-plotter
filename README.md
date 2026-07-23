@@ -13,3 +13,6 @@ The auto plotter is a command line tool designed to simplify the process of crea
 
 ## Getting Started
 To get started, simply clone the repository and run the installation script, then use the command line interface to begin creating your plots.
+
+## Changelog
+- Added utility functions
